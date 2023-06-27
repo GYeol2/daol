@@ -1,0 +1,23 @@
+@charset "utf-8"    ;
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&family=Delicious+Handrawn&family=Noto+Serif+KR:wght@200&family=Space+Grotesk&display=swap');
+/* font-family: 'Changa One', cursive; */
+
+*{margin: 0;padding: 0; box-sizing: border-box;}
+a{text-decoration: none; color: inherit;}
+ul,ol,li{list-style: none;}
+
+body{
+    font-style: 14px;
+    color: #444;
+    font-family: 'Space Grotesk', sans-serif;
+    height: 8000px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+
+
+
+
